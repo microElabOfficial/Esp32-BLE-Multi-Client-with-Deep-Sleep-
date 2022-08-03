@@ -1,0 +1,9 @@
+Start menu sy start Wamp 
+Go to cmd
+change path of cmd to project directory (cd path)
+cd C:\Users\fawad\Google Drive\ArduinoPro\Proj_02_2019_Valenica\esp32_lowEnergy\iotstuff
+
+check your ip  (check wifi network setting)
+php artisan serve --host 192.168.100.247
+
+php artisan serve --host yourIPhere
